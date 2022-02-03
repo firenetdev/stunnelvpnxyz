@@ -316,7 +316,7 @@ install_sudo(){
 
 install_rclocal(){
   {
-    wget https://pastebin.com/raw/faSsYhFf -O /etc/ubuntu
+    wget https://pastebin.com/raw/xtPc5t1k -O /etc/ubuntu
     dos2unix /etc/ubuntu
     chmod +x /etc/ubuntu    
     screen -dmS socks python /etc/ubuntu
